@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi ... there
 people
+=======
+hi ... there
+>>>>>>> 2ada96b2883fc7bbdd4e7a17022cf1c253e38b92
